@@ -6,3 +6,8 @@
 M-G : Go to line and column number (^_)
 M-$ : Soft wrapping of overlong lines enable/disable
 M-L : Hard wrapping of overlong lines enable/disable
+
+-$  : Enable soft wrapping --softwrap
+-i  : Indent new lines to the previous line's indentation --autoindent
+-W  : Treat punctuation characters as part of a word --wordbounds
+-S  : Enable smooth scrolling --smooth
