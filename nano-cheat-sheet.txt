@@ -1,1 +1,8 @@
-Ctrl+x : exit nano
+^X  : Exit nano
+^W  : Search for a string or a regular expression
+^K  : Cut the current line and store it in the cutbuffer
+^A  : Go to beginning of current line
+^E  : Go to end of current line
+M-G : Go to line and column number (^_)
+M-$ : Soft wrapping of overlong lines enable/disable
+M-L : Hard wrapping of overlong lines enable/disable
